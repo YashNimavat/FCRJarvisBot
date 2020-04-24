@@ -1,0 +1,16 @@
+
+chatbot link:
+ 
+https://fcrbot.herokuapp.com/
+
+MongoDB login link
+
+https://account.mongodb.com/account/login?n=%2Fv2%2F5e84a9c736c9e617e64adf31
+
+Email:    yashnimavat0@gmail.com
+password: projectfcr
+
+
+
+
+
